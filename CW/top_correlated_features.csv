@@ -1,0 +1,11 @@
+Feature,Encoded Feature,Correlation
+odor,f,0.6237100347270391
+stalk-surface-above-ring,k,0.5875225676598932
+stalk-surface-below-ring,k,0.5733918530686717
+gill-size,n,0.5398884271532032
+bruises,f,0.5013025383805603
+spore-print-color,h,0.4901252102454864
+ring-type,l,0.45152835079021875
+population,v,0.44353915447314873
+spore-print-color,w,0.35726890800977373
+habitat,p,0.32326949910170333
